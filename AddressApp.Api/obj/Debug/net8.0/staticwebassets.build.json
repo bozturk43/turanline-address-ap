@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O9NeXzQGm+DB+rkfIZM2+VUN2U+9QkkOqsIy2SftbjE=",
+  "Source": "AddressApp.Api",
+  "BasePath": "_content/AddressApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
