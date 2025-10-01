@@ -1,6 +1,4 @@
 import { getAddresses } from "@/lib/data";
-import { Address } from "@/types/address";
-import AddressCard from "./components/AdressCard";
 import Link from "next/link";
 import AddressList from "./components/AddressList";
 

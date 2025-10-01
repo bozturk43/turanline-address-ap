@@ -8,7 +8,7 @@ import { Address } from '@/types/address';
 type AddressFormData = Omit<Address, 'id'>;
 type AddressFormProps = {
   initialData?: Address | null;
-  onSubmit: (data: AddressFormData) => Promise<any>;
+  onSubmit: (data: AddressFormData) => Promise<Address | void>;
 };
 
 export default function AddressForm({ initialData, onSubmit }: AddressFormProps) {
